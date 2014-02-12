@@ -5,6 +5,8 @@ Install
 -------
 Download the project, and run composer install
 
+    curl -sS https://getcomposer.org/installer | php
+    php composer.phar install
 Usage
 -----
 
